@@ -14,6 +14,7 @@
 		4C0AC226204F511F00D44180 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4C0AC224204F511F00D44180 /* LaunchScreen.storyboard */; };
 		4C0AC231204F511F00D44180 /* Lab5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0AC230204F511F00D44180 /* Lab5Tests.swift */; };
 		4C0AC23C204F511F00D44180 /* Lab5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0AC23B204F511F00D44180 /* Lab5UITests.swift */; };
+		4C0AC24A204F543B00D44180 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4C0AC249204F543B00D44180 /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		4C0AC237204F511F00D44180 /* Lab5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Lab5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C0AC23B204F511F00D44180 /* Lab5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab5UITests.swift; sourceTree = "<group>"; };
 		4C0AC23D204F511F00D44180 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4C0AC249204F543B00D44180 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				4C0AC21B204F511F00D44180 /* AppDelegate.swift */,
 				4C0AC21D204F511F00D44180 /* ViewController.swift */,
+				4C0AC249204F543B00D44180 /* ViewController2.swift */,
 				4C0AC21F204F511F00D44180 /* Main.storyboard */,
 				4C0AC222204F511F00D44180 /* Assets.xcassets */,
 				4C0AC224204F511F00D44180 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				4C0AC21E204F511F00D44180 /* ViewController.swift in Sources */,
 				4C0AC21C204F511F00D44180 /* AppDelegate.swift in Sources */,
+				4C0AC24A204F543B00D44180 /* ViewController2.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

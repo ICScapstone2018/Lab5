@@ -6,10 +6,13 @@
 //  Copyright © 2018 Michael Horie. All rights reserved.
 //
 
+import MapKit
 import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var detail: UIButton!
+    @IBOutlet weak var mainMap: MKMapView!
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
@@ -20,6 +23,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    @IBAction func pressedDetail(_ sender: Any) {
+    }
 }
-
