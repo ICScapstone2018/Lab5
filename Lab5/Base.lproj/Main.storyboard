@@ -58,7 +58,6 @@
                                 <state key="normal" title="Back"/>
                                 <connections>
                                     <action selector="pressedBack:" destination="OHI-2s-81O" eventType="touchUpInside" id="sTr-tL-awq"/>
-                                    <segue destination="BYZ-38-t0r" kind="presentation" id="OB8-HA-fde"/>
                                 </connections>
                             </button>
                             <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="q5x-gL-d1j">
